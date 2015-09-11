@@ -1,0 +1,10 @@
+2015-07-08 10:12:23,945 INFO  [LoginusingLog4j] Browser launched 
+2015-07-08 10:12:27,303 INFO  [LoginusingLog4j] Navigated to url 
+2015-07-08 10:12:27,481 INFO  [LoginusingLog4j] Entered username 
+2015-07-08 10:12:27,568 INFO  [LoginusingLog4j] Entered password 
+2015-07-08 10:12:29,843 INFO  [LoginusingLog4j] Clicked on Sigin 
+2015-07-08 10:13:58,901 INFO  [LoginusingLog4j] Browser launched 
+2015-07-08 10:14:01,006 INFO  [LoginusingLog4j] Navigated to url 
+2015-07-08 10:14:01,195 INFO  [LoginusingLog4j] Entered username 
+2015-07-08 10:14:01,274 INFO  [LoginusingLog4j] Entered password 
+2015-07-08 10:14:04,079 INFO  [LoginusingLog4j] Clicked on Sigin 

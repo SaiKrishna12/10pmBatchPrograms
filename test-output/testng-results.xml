@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="OrangeHRM Test Suite" duration-ms="21087" started-at="2015-07-13T16:57:09Z" finished-at="2015-07-13T16:57:30Z">
+    <groups>
+    </groups>
+    <test name="Login on OrangeHRM" duration-ms="14628" started-at="2015-07-13T16:57:09Z" finished-at="2015-07-13T16:57:24Z">
+      <class name="orangehrm.Login">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:orangehrm.Login@24d7e934]" name="loginTest" duration-ms="14603" started-at="2015-07-13T09:57:09Z" finished-at="2015-07-13T09:57:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- orangehrm.Login -->
+    </test> <!-- Login on OrangeHRM -->
+    <test name="Add Employee in OrangeHRM" duration-ms="6319" started-at="2015-07-13T16:57:24Z" finished-at="2015-07-13T16:57:30Z">
+      <class name="orangehrm.AddEmployee">
+        <test-method status="PASS" signature="addEmployeeTest()[pri:0, instance:orangehrm.AddEmployee@7239c5c6]" name="addEmployeeTest" duration-ms="6318" started-at="2015-07-13T09:57:24Z" finished-at="2015-07-13T09:57:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployeeTest -->
+      </class> <!-- orangehrm.AddEmployee -->
+    </test> <!-- Add Employee in OrangeHRM -->
+  </suite> <!-- OrangeHRM Test Suite -->
+</testng-results>
